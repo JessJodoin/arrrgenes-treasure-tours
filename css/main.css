@@ -36,7 +36,9 @@ html {
   border-bottom-color: #fff;
 }
 
-a:focus {
+ul a:focus,
+.nav:focus,
+.banner a:focus {
   outline: 3px solid #fff;
 }
 
